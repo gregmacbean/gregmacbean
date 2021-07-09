@@ -1,13 +1,13 @@
 tags:
-  - slug: document
-    name: document
-  - slug: mock
-    name: mock
-  - slug: style
-    name: style
-  - slug: license
-    name: license
-  - slug: mdx
-    name: mdx
-  - slug: markdown
-    name: markdown
+  - slug: ddd
+    name: domain driven design
+  - slug: architecture
+    name: architecture
+  - slug: people
+    name: people
+  - slug: leadership
+    name: leadership
+  - slug: culture
+    name: culture
+  - slug: startup-thinking
+    name: startup thinking
